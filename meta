@@ -1,7 +1,8 @@
-{ 
-"name": "tarbay", 
-"website": "https://github.com/Tarbay", 
-"description": "i operate some data", 
-"logo": "https://i.ibb.co/F6d1qjQ/Tarbay.png", 
-"twitter": "https://twitter.com/tanomotto"
+{
+  "name": "Some operator",
+  "website": "https://github.com/Tarbay",
+  "description": "done bro",
+  "logo": "https://i.ibb.co/F6d1qjQ/Tarbay.png",
+  "twitter": "https://twitter.com/tanomotto"
 }
+
